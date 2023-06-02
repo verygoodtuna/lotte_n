@@ -1,0 +1,11 @@
+롯데월드 타워
+<iframe width="706" height="320" src="https://www.youtube.com/embed/Hzq8wIDvE7E" title="롯데월드타워 다큐멘터리" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+경영전략
+<iframe width="706" height="320" src="https://www.youtube.com/embed/-YY8buzI30s" title="롯데건설 경영전략 공유" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+홍보영상
+<iframe width="706" height="320" src="https://www.youtube.com/embed/OvEt4qlqH6o" title="롯데건설 창립63주년 기념, 라이브 드로잉 영상!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+안전경영
+<iframe width="706" height="320" src="https://www.youtube.com/embed/JtURBFPeJjc" title="[안전사진관]롯데건설의 안전이란? 존중과 배려로 함께 만들어가는 우리들의 안전문화" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

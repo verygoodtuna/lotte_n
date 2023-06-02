@@ -1,1 +1,1 @@
-# lotte_n
+# lotte
